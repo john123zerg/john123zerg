@@ -1,1 +1,5 @@
-하이
+git add 파일이름.txt
+git commit -m "Add Text File [파일이름.txt]"
+
+git push
+method:1
